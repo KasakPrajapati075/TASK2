@@ -1,0 +1,57 @@
+body {
+    color:black;
+    font-family: Arial, sans-serif;
+    padding-top: 10%;
+    background-image: url('bgimage.webp');
+}
+
+h1{
+    text-align: center;
+}
+
+#calculator{
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgba(0, 140, 255, 0.897);
+    align-items: center;
+}
+
+#degree{
+    width: 363px;
+}
+
+label {
+    display: inline;
+    margin-bottom: 10px;
+    padding-right: 10px;
+    
+}
+
+.form-group{
+    padding:5px;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    border: solid paleturquoise;
+    border-radius: 5px;
+}
+
+
+button {
+    padding: 10px 20px;
+    background-color: black;
+    color: #ffffff;
+    border: solid;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-top:5%;
+} 
+
+#result {
+    margin-top: 20px;
+  
+}
